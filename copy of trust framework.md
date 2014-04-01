@@ -1,4 +1,4 @@
-**MITRE** **External Identity Federation**
+#MITRE External Identity Federation
 **Trust Framework System Rules**
 
 
@@ -9,24 +9,11 @@
 **Note: This document does not represent official MITRE policy and has been released as a draft for public discussion.**
 
 
-**Commissioned by and for**: 
-Justin Richer, Lead Computer Scientist  
-Social Computing Researcher; Multimedia and Collaboration, K83C  
-202 Burlington Road, Mail Stop K320, Bedford, Massachusetts 01730  
-781-271-8176; jricher@mitre.org 
-
-**Trust Framework Architect:** 
-Dazza (Daniel) Greenwood, JD Consultant Agreement No. 92207   
-[CIVICS.com](http://civics.com/bio)  Contact [Page](http://civics.com/contact)    
-1 Broadway, 14th Floor, Cambridge, MA 02142   
 
 
-**MITREid** **External Identity Federation**
-**Trust Framework System Rules**
+## 1.	Business Rules
 
-# 1.	BUSINESS RULES
-
-## 1.1	Scope
+### 1.1	Scope
 
 This Trust Framework applies to the use by MITRE personnel of OpenID 2.0 and OpenID Connect as described in [Section 3](#3----technology-rules), collectively called MITREid.  This Trust Framework also applies to all non-MITRE users who connect to MITRE systems using the MITRE External Identity Federation.  
 
