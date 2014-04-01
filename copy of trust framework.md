@@ -26,7 +26,7 @@ Dazza (Daniel) Greenwood, JD Consultant Agreement No. 92207
 
 # 1.	BUSINESS RULES
 
-## 1.1.	Scope
+## 1.1	Scope
 
 This Trust Framework applies to the use by MITRE personnel of OpenID 2.0 and OpenID Connect as described in [Section 3](#3----technology-rules), collectively called MITREid.  This Trust Framework also applies to all non-MITRE users who connect to MITRE systems using the MITRE External Identity Federation.  
 
